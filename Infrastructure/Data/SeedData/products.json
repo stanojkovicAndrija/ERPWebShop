@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "THE AMINO WHEY HYDRO PROTEIN 3.500 G",
+    "Description": "Amino Whey Hydro protein The Nutrition. is over 86% Protein and contains almost no Fat or Carbohydrates.",
+    "Price": 75,
+    "PictureUrl": "images/products/the-amino-whey-hydro3500g.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "KRE - ALKALYN YAMAMOTO 240 PILLS",
+    "Description": "Yamamoto® Nutriion Kre-ALKALYN® is a nutritional supplement made from micronized creatine monohydrate",
+    "Price": 50,
+    "PictureUrl": "images/products/yamamoto-kre-alkalyn-240kaps-2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ISO-FUJI® YAMAMOTO NUTRITION PROTEIN 2000 G",
+    "Description": "Iso-FUJI® - Nutritional supplement created by isolation, i.e. cross-ultrafiltration and microfiltration of Volactive® Ultra Whey XP.",
+    "Price": 93,
+    "PictureUrl": "images/products/iso-fuji-yamamoto-nutrition2000-grama.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "MULTI VITAMIN YAMAMOTO® NUTRITION 60 PILLS",
+    "Description": "Yamamoto® Nutrition presents Multi Vitamin. Food supplement that provides a complete spectrum of vitamins and minerals. The product is suitable in case of reduced dietary intake or increased requirements for these nutrients.",
+    "Price": 14,
+    "PictureUrl": "images/products/multi-vitamin-yamamoto-nutrition-60-tableta.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "YAMAMOTO® NUTRITION SHAKER 700 ML",
+    "Description": "Shaker (700ml) with Yamamoto Nutrition logo.",
+    "Price": 4,
+    "PictureUrl": "images/products/yamamoto-nutrition-shaker-700-ml.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "VITAMIN C COMPLEX +D3+CINK THE NUTRITION 120 PILLS",
+    "Description": "Vitamin C complex contains zinc, vitamin D3 and natural rosehip extract. This unique formula gradually releases and adds nutrients to your body.",
+    "Price": 13,
+    "PictureUrl": "images/products/vitamin-c-complex-d3cink-100-tableta.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "THE BASIC 100% WHEY PROTEIN 5400 GRAMA",
+    "Description": "100% Whey Protein is an advanced whey protein formula, made for all athletes who want more muscle, more strength and faster recovery. ",
+    "Price": 90,
+    "PictureUrl": "images/products/the-basic-100-whey-protein-5400-grama.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  }
+]

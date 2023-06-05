@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Protein"
+  },
+  {
+    "Id": 2,
+    "Name": "Vitamin"
+  },
+  {
+    "Id": 3,
+    "Name": "Creatin"
+  },
+  {
+    "Id": 4,
+    "Name": "Equipment"
+  }
+]
